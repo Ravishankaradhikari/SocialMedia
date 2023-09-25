@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Social Media Designs**
+![6re](https://github.com/Ravishankaradhikari/SocialMedia/assets/114094359/aca6563b-3192-4af6-b4da-bb6d09c59aa5)
+![5l](https://github.com/Ravishankaradhikari/SocialMedia/assets/114094359/145c8057-61c4-419f-8c34-32f5fd6ec1a3)
+![1](https://github.com/Ravishankaradhikari/SocialMedia/assets/114094359/20b87419-faed-42a5-894a-e732b36382f4)
+![2](https://github.com/Ravishankaradhikari/SocialMedia/assets/114094359/d57881a2-c12f-4c0f-9803-f16e3b9b2d82)
+![3](https://github.com/Ravishankaradhikari/SocialMedia/assets/114094359/a3b4e934-b065-47e5-a647-ef80f75bdae6)
+![4](https://github.com/Ravishankaradhikari/SocialMedia/assets/114094359/1e25d2a4-cc18-4f2f-97f2-dd3d8a460f33)
+
+
+
